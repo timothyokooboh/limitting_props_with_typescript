@@ -1,0 +1,2 @@
+# limitting_props_with_typescript
+Created with CodeSandbox
